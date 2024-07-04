@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language code="en">
+		<translation key="shieldText">Shield</translation>
+		<translation key="resumeText">Continue</translation>
+		<translation key="exitText">Exit</translation>
+		<translation key="changeLanguageText">en</translation>
+	</language>
+	<language code="uk">
+		<translation key="shieldText">Захист</translation>
+		<translation key="resumeText">Продовжити</translation>
+		<translation key="exitText">Вихід</translation>
+		<translation key="changeLanguageText">uk</translation>
+	</language>
+</translations>
