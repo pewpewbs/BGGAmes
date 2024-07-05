@@ -81,7 +81,7 @@ public class MainManager : MonoBehaviour // Менеджер що управляє грою
         }
         
 
-        gridManager.SetColorPath(pathForPlayer, Color.yellow); // Візуально відображаємо шлях гравця
+        gridManager.SetColorPath(pathForPlayer, Color.blue); // Візуально відображаємо шлях гравця
 
         player.InitializePath(pathForPlayer);//Відправляємо гравця йти за знайденим шляхом
     }
